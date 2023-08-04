@@ -12,4 +12,4 @@ Updating Details: Users with appropriate permissions can update student and facu
 
 Leave Details for faculty and student
 
-Viewing Results : Users with appropriate permissions can view their results.
+Viewing Results: Users with appropriate permissions can view their results.
