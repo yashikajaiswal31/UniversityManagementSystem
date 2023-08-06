@@ -13,3 +13,5 @@ Updating Details: Users with appropriate permissions can update student and facu
 Leave Details for faculty and student
 
 Viewing Results: Users with appropriate permissions can view their results.
+<img width="616" alt="image" src="https://github.com/yashikajaiswal31/UniversityManagementSystem/assets/111109944/3f339e83-e488-4440-a8a0-d262276a5d39">
+
